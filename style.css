@@ -2,6 +2,7 @@ h1 {
     color: aqua;
     border-bottom: 2px solid black;
     text-align: center;
+    font-family: cursive;
 }
 
 h2 {
@@ -30,4 +31,9 @@ img {
 
 a {
     color: burlywood;
+}
+
+#padd {
+    border: 2px solid red;
+    padding-top: px;
 }
